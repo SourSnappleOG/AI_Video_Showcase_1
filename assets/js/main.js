@@ -93,7 +93,7 @@
 				$(this).addClass('delay-' + Math.floor((Math.random() * 6) + 1));
 			});
 
-		// IE: Fix thumbnail images.
+		// IE: Fix thumbnail videos.
 			if (browser.name == 'ie')
 				$('.item.thumb').each(function() {
 

@@ -8,9 +8,9 @@ committments, didn't get around to putting to code until recently. Different to
 my more general-purpose freebies, this one's specifically built for portfolio use
 with a very unique look/layout. Hope you enjoy it!
 
-Demo images* are courtesy of the supremely talented photographer Felicia Simion.
+Demo videos* are courtesy of the supremely talented photographer Felicia Simion.
 If you like photography or just enjoy being blown away by awesome stuff, check
-out her portfolio for more stunning images:
+out her portfolio for more stunning videos:
 
 http://ineedchemicalx.deviantart.com/
 
@@ -25,7 +25,7 @@ aj@lkn.io | @ajlkn
 
 Credits:
 
-	Demo Images:
+	Demo Videos:
 		Felicia Simion (ineedchemicalx.deviantart.com)
 			"Pasadena" (ineedchemicalx.deviantart.com/art/Pasadena-357650036)
 			"Your really got me" (ineedchemicalx.deviantart.com/art/You-really-got-me-345249340)
