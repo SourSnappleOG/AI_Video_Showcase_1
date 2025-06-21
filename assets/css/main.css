@@ -746,6 +746,28 @@ input, select, textarea {
 			color: #fff;
 		}
 
+		.poptrox-popup iframe {
+				z-index: -1 !important;
+			}
+
+		/* .poptrox-popup .nav-next,
+			.poptrox-popup .nav-previous {
+				text-decoration: none;
+				font-weight: normal;
+				font-style: normal;
+				transition: none;
+				opacity: 1 !important;
+				visibility: visible !important;
+				width: 150px;
+				height: 75px;
+				position: absolute;
+				bottom: 0;
+				cursor: pointer;
+				font-size: 3em;
+				line-height: 75px;
+				pointer-events: auto !important;
+			} */
+
 		.poptrox-popup .nav-next, .poptrox-popup .nav-previous {
 			text-decoration: none;
 			font-weight: normal;
